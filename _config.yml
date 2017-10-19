@@ -7,16 +7,22 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Stephanie Simms
+tagline:          ''
+description:      ''
 url:              http://stephaniesimms.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Stephanie Simms'
+  url:            https://stephaniesimms.github.io
 
-paginate:         5
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+source: .
+destination: ./_site
+permalink: /:title
+# paginate: 1
+# paginate_path: /page:num/
 
 # Custom vars
 version:          2.1.0
@@ -24,6 +30,14 @@ version:          2.1.0
 github:
   repo:           https://github.com/stephaniesimms
 
-gems:
+plugins:
     - jekyll-sitemap
     - jekyll-paginate
+
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"

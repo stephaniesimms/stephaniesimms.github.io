@@ -1,14 +1,19 @@
-##Research products
+---
+layout: page
+title: Products
+---
+
+## Research products
 CV (download as PDF)
 
-###Publications
+### Publications
 
 doi and Open Access Copy links
 
-###Data
+### Data
 
-###Grants
+### Grants
 
-###Presentations
+### Presentations
 
-###Posters
+### Posters
