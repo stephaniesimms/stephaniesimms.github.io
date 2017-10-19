@@ -1,11 +1,16 @@
-##Current research
+---
+layout: page
+title: Research
+---
 
-###Active DMPs
+## Current research
+
+### Active DMPs
 
 
-##Previous research
+## Previous research
 
-###Archaeology
+### Archaeology
 Cotsen Institute Press
 Bolonchen Regional Archaeology Project
 San Bartolo-Xultun
