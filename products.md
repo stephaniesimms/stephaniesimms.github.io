@@ -5,12 +5,12 @@ title: Products
 
 ## Research products
 ---
-### Publications    
+### Publications
 S Simms, S Jones, D Mietchen, and T Miksa. Machine-actionable data management plans (maDMPs). *Research Ideas and Outcomes* 3: e13086. [https://doi.org/10.3897/rio.3.e13086](https://doi.org/10.3897/rio.3.e13086) (Open Access).
 
-S R Simms and S Jones. 2017. Next-Generation Data Management Plans: Global, Machine-Actionable, FAIR. *International Journal of Digital Curation* 12(1). [https://doi.org/10.2218/ijdc.v12i1.513](https://doi.org/10.2218/ijdc.v12i1.513) (Open Access).   
+S R Simms and S Jones. 2017. Next-Generation Data Management Plans: Global, Machine-Actionable, FAIR. *International Journal of Digital Curation* 12(1). [https://doi.org/10.2218/ijdc.v12i1.513](https://doi.org/10.2218/ijdc.v12i1.513) (Open Access).
 
-S Simms, M Strong, S Jones, and M Ribeiro. 2016. The Future of Data Management Planning: Tools, Policies, and Players. *International Journal of Digital Curation* 11(1). [https://doi.org/10.2218/ijdc.v11i1.413](https://doi.org/10.2218/ijdc.v11i1.413) (Open Access).	
+S Simms, M Strong, S Jones, and M Ribeiro. 2016. The Future of Data Management Planning: Tools, Policies, and Players. *International Journal of Digital Curation* 11(1). [https://doi.org/10.2218/ijdc.v11i1.413](https://doi.org/10.2218/ijdc.v11i1.413) (Open Access).
 
 S Abrams, J Kratz, S Simms, M Strong, and P Willett. 2016. Dash: Data Sharing Made Easy at the University of California. *International Journal of Digital Curation* 11(1). [https://doi.org/10.2218/ijdc.v11i1.408](https://doi.org/10.2218/ijdc.v11i1.408) (Open Access).
 

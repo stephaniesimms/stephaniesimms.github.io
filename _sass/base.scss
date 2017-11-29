@@ -23,9 +23,11 @@ body {
 /*- Base color -*/
 
 $background-color: #FFFFFF;
-$text-color: #0645AD;
+$text-color: #268bd2;
 $text-light-color: rgba(0,0,0,0.6);
 $text-dark-color: #000000;
+$header-color: #000000;
+
 
 /*- Base settings -*/
 
@@ -54,6 +56,16 @@ a {
 	&:focus {
 		color: darken($text-color, 5%);
 	}
+}
+
+.header {
+    color: $header-color;
+    text-decoration: none;
+    font-weight: 700;
+    &:hover,
+    &:focus {
+        color: darken($header-color, 5%);
+    }
 }
 
 /* Common classes */

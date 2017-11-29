@@ -45,7 +45,7 @@
   }
   a {
     padding-left: 10px;
-    color: $text-color;
+    color: $header-color;
     font-weight: 300
   }
 }
@@ -259,7 +259,7 @@ code {
 
 footer {
   background-color: $background-color;
-  color: $text-color;
+  color: $header-color;
   text-align: center;
   padding: 0.6667em 0;
 }
