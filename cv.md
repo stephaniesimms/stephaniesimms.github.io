@@ -3,8 +3,8 @@ layout: page
 title: CV
 ---
 
-## CV 
-[Download as PDF](add)   
+## CV
+[Download as PDF](add)
 ---
 
 #### Professional experience
@@ -33,7 +33,7 @@ Research Data Alliance Data Share Fellow (2015–2016); Smithsonian Tropical Res
 
 #### Professional service
 ---
-**Review Panelist:** National Endowment for the Humanities (2016). 
+**Review Panelist:** National Endowment for the Humanities (2016).
 **Reviewer:** Journal of Field Archaeology, Journal of Archaeological Science, International Journal of Digital Curation.
 **Committee member:** UC Office of Scholarly Communications (2015–present), [DataONE](https://www.dataone.org/) Users Group Steering Committee (2015–present).
 **Member:** Society for American Archaeology (2005-present), Association for Public Policy Analysis
