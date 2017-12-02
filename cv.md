@@ -4,28 +4,27 @@ title: CV
 ---
 
 ## CV
-[Download as PDF](add)
----
+[Download as PDF](/img/Simms_CV_2017.pdf)<br>
 
 #### Professional experience
 ---
-**[California Digital Library](http://www.cdlib.org/), University of California, 2015–present**     
-*Product Manager / Research Data Specialist.* Product manager for the [DMPTool](https://dmptool.org), an open source application codeveloped by an international team that enables researchers to meet funding agency requirements for open data. Provide outreach and training on research data management policy and practice at the 10 UC campuses and beyond. Conduct user research and design new technological approaches to facilitate open and efficient research practices.   
+**[California Digital Library](http://www.cdlib.org/), University of California, 2015–present**<br>
+*Product Manager / Research Data Specialist.* Product manager for the [DMPTool](https://dmptool.org), an open source application codeveloped by an international team that enables researchers to meet funding agency requirements for open data. Provide outreach and training on research data management policy and practice at the 10 UC campuses and beyond. Conduct user research and design new technological approaches to facilitate open and efficient research practices.
 - Certified Scrum Product Owner, Scrum Alliance.
 
-**UCLA Library and Center for Digital Humanities, 2014–2015**      
+**UCLA Library and Center for Digital Humanities, 2014–2015**<br>
 *[CLIR Postdoctoral Fellow](https://www.clir.org/fellowships/postdoc), Digital Projects Analyst.* Connected researchers, librarians, IT staff, and students to develop and support digital research projects. Conducted usability testing and developed metadata standards for an archaeological data publication initiative with the Cotsen Institute of Archaeology Press and the Digital Library Program. Assessed data management practices and needs across campus.
 
-**[Journal of Field Archaeology](http://www.tandfonline.com/toc/yjfa20/current), 2014**     
+**[Journal of Field Archaeology](http://www.tandfonline.com/toc/yjfa20/current), 2014**<br>
 *Managing Editor.* Managed the transition to a new online submission system and increased publication schedule (from 4 to 6 issues per year). Developed protocols for the publication of digital images, data, and other supplementary materials. Corresponded with international authors and reviewers throughout manuscript submission, revision, and production.
 
 #### Education
 ---
-**PhD in Archaeology, 2014**     
-[Boston University](http://www.bu.edu/). Dissertation: Prehispanic Maya Foodways: Archaeological and Microbotanical Evidence from Escalera al Cielo, Yucatán, Mexico [pdf](https://hdl.handle.net/2144/14269). Advisor: William Saturno.
+**PhD in Archaeology, 2014**<br>
+[Boston University](http://www.bu.edu/). Dissertation: Prehispanic Maya Foodways: Archaeological and Microbotanical Evidence from Escalera al Cielo, Yucatán, Mexico [pdf](https://hdl.handle.net/2144/14269).
 
-**BA in Classical Civilization, 2003**     
-[University of California, Los Angeles](http://www.ucla.edu/). Advisor: Robert Gurval.
+**BA in Classical Civilization, 2003**<br>
+[University of California, Los Angeles](http://www.ucla.edu/).
 
 #### Honors and awards
 ---

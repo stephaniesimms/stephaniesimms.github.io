@@ -93,3 +93,14 @@ a {
 .bottom { bottom: 0 }
 .right { right: 0 }
 .left { left: 0 }
+
+.profile.img {
+  float: left;
+  display: inline;
+  max-width: 50%;
+  margin: 10 10 12rem;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px ;
+}
