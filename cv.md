@@ -4,7 +4,7 @@ title: CV
 ---
 
 ## CV
-[Download as PDF](/img/Simms_CV_2017.pdf)<br>
+[Download as PDF](/resources/cv/Simms_CV.pdf)<br>
 
 #### Professional experience
 ---
