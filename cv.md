@@ -8,8 +8,8 @@ title: CV
 
 #### Professional experience
 ---
-**[California Digital Library](http://www.cdlib.org/), University of California, 2015–present**<br>
-*Product Manager / Research Data Specialist.* Product manager for the [DMPTool](https://dmptool.org), an open source application codeveloped by an international team that enables researchers to meet funding agency requirements for open data. Provide outreach and training on research data management policy and practice at the 10 UC campuses and beyond. Conduct user research and design new technological approaches to facilitate open and efficient research practices.
+**[California Digital Library](http://www.cdlib.org/), University of California, 2015–Dec 2018**<br>
+*Product Manager / Research Data Specialist.* Product manager for the [DMPTool](https://dmptool.org), an open source application codeveloped by an international team that enables researchers to meet funding agency requirements for open data. Provided outreach and training on research data management policy and practice at the 10 UC campuses and beyond. Conducted user research and design new technological approaches to facilitate open and efficient research practices.
 - Certified Scrum Product Owner, Scrum Alliance.
 
 **UCLA Library and Center for Digital Humanities, 2014–2015**<br>
@@ -28,20 +28,16 @@ title: CV
 
 #### Honors and awards
 ---
-Research Data Alliance Data Share Fellow (2015–2016); Smithsonian Tropical Research Institute Short-Term Fellowship (2011); National Science Foundation Doctoral Dissertation Improvement Grant (#1036123, 2010); Boston University Graduate Research Abroad Fellowship (2010); Smithsonian Institution Graduate Fellowship (2007); Helen Caldwell Scholarship for Outstanding Graduate in Classics (2003).
+Research Data Alliance Data Share Fellow (2015–2016); Smithsonian Tropical Research Institute Short-Term Fellowship (2011); National Science Foundation Doctoral Dissertation Improvement Grant (#1036123, 2010); Boston University Graduate Research Abroad Fellowship (2010); Smithsonian Institution Graduate Fellowship (2007); Helen Caldwell Scholarship for Outstanding Graduate in Classics (2003); Phi Beta Kappa (2003).
 
 #### Professional service
 ---
 **Review Panelist:** National Endowment for the Humanities (2016).
 **Reviewer:** Journal of Field Archaeology, Journal of Archaeological Science, International Journal of Digital Curation.
-**Committee member:** UC Office of Scholarly Communications (2015–present), [DataONE](https://www.dataone.org/) Users Group Steering Committee (2015–present).
-**Member:** Society for American Archaeology (2005-present), Association for Public Policy Analysis
-and Management (2013–present).
+**Committee member:** UC Office of Scholarly Communications (2015–2018), [DataONE](https://www.dataone.org/) Users Group Steering Committee (2015–2018).
+**Member:** Society for American Archaeology (2005-2015), Association for Public Policy Analysis
+and Management (2013–2015), American Geophysical Union (2016-2019), American Anthropological Association (2018-2019).
 
 #### Research products
 ---
 A full list of research products is available [here](products.md).
-
-
-
-

@@ -1,13 +1,18 @@
 ---
 layout: page
-title: Products
+title: Research products
 ---
 
 ## Research products
 ---
 ### Publications
-S Simms, S Jones, D Mietchen, and T Miksa. Machine-actionable data management plans (maDMPs). *Research Ideas and Outcomes* 3: e13086. [https://doi.org/10.3897/rio.3.e13086](https://doi.org/10.3897/rio.3.e13086) (Open Access).
+T Miksa, S Simms, D Mietchen, S Jones. in press. Ten principles for machine-actionable data management plans. *PLOS Computational Biology* (preprint available on Zenodo [http://doi.org/10.5281/zenodo.1434938](http://doi.org/10.5281/zenodo.1434938)) (Open Access).
 
+S Simms, S Jones, T Miksa, D Mietchen, N Simons, K Unsworth. 2018. A Landscape Survey of #ActiveDMPs. *International Journal of Digital Curation* 13(1): 204-214. [https://doi.org/10.2218/ijdc.v13i1.629](https://doi.org/10.2218/ijdc.v13i1.629) (Open Access).
+
+J A Borghi, S Abrams, D Lowenberg, S Simms, J Chodacki. 2018. Support Your Data: A Research Data Management Guide for Researchers. *Research Ideas and Outcomes* 4: e26439. [https://doi.org/10.3897/rio.4.e26439](https://doi.org/10.3897/rio.4.e26439) (Open Access).
+
+S Simms, S Jones, D Mietchen, and T Miksa. 2017. Machine-actionable data management plans (maDMPs). *Research Ideas and Outcomes* 3: e13086. [https://doi.org/10.3897/rio.3.e13086](https://doi.org/10.3897/rio.3.e13086) (Open Access).
 
 SR Simms and S Jones. 2017. Next-Generation Data Management Plans: Global, Machine-Actionable, FAIR. *International Journal of Digital Curation* 12(1). [https://doi.org/10.2218/ijdc.v12i1.513](https://doi.org/10.2218/ijdc.v12i1.513) (Open Access).
 
