@@ -6,7 +6,7 @@ title: Research products
 ## Research products
 ---
 ### Publications
-T Miksa, S Simms, D Mietchen, S Jones. in press. Ten principles for machine-actionable data management plans. *PLOS Computational Biology* (preprint available on Zenodo [http://doi.org/10.5281/zenodo.1434938](http://doi.org/10.5281/zenodo.1434938)) (Open Access).
+T Miksa, S Simms, D Mietchen, S Jones. 2019. Ten principles for machine-actionable data management plans. *PLOS Computational Biology* 15(3): e1006750. [https://doi.org/10.1371/journal.pcbi.1006750](https://doi.org/10.1371/journal.pcbi.1006750) (Open Access).
 
 S Simms, S Jones, T Miksa, D Mietchen, N Simons, K Unsworth. 2018. A Landscape Survey of #ActiveDMPs. *International Journal of Digital Curation* 13(1): 204-214. [https://doi.org/10.2218/ijdc.v13i1.629](https://doi.org/10.2218/ijdc.v13i1.629) (Open Access).
 
