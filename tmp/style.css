@@ -1,0 +1,116 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #333;
+}
+
+/* Header navigation */
+.nav {
+  display: flex;
+  height: 40px;
+  align-items: center;
+  padding: 0 20px;
+  list-style: none;
+  font-family: Varela Round; 
+  color: #333;
+}
+
+#stephanie_nav {
+  margin-right: auto;
+  font-size: 20px;
+}
+
+.nav li:not(:last-child):not(:first-child) {
+  margin-right: 30px;
+}
+
+.nav li:hover {
+  text-decoration: underline;
+}
+
+a:link {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Main content */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 80%;
+  margin-left: 70px; 
+}
+
+.left, .right {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.profile_picture {
+  border-radius: 4px;
+}
+
+/* Footer */
+.footer {
+  margin-top: auto;
+}
+
+.social_links {
+  display: flex;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+}
+
+.logo_image {
+  display: flex;
+  margin-right: 50px;
+}
+
+.copyright {
+  display: flex;
+  justify-content: center;
+}
+
+/* Typography */
+p {
+	font-size: 1em; 
+  line-height: 1.8em;
+}
+
+.container a {
+  color: rgba(0, 153, 255, 0.986);
+  font-weight: bold;
+}
+
+.header a, .footer a {
+  color: inherit;
+}
+
+/* Button */
+.button {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  padding: 10px;
+  background-color: #eee; 
+  border: 1px solid #eee;
+  color: #666;
+  border-radius: 3px;
+  flex-shrink: 0;
+  justify-content: center;
+}
+
+.button:hover, button:active, button:focus {
+  border: 1px solid gray;
+  outline: none;
+  box-shadow: none;
+}
