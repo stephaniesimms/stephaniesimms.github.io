@@ -209,6 +209,12 @@ img[title="Monochrome"] {
     box-shadow: 0 2px 6px #ddd;
   }
 
+.orcid {
+  display: block;
+  margin: 0;
+  margin-bottom: none;
+}
+
 code {
   color: lighten($text-color, 35%);
   background-color: lighten($background-color, 35%);
@@ -262,4 +268,12 @@ footer {
   color: $header-color;
   text-align: center;
   padding: 0.6667em 0;
+}
+
+.copyright {
+  margin-right: 40px; 
+}
+
+footer a {
+    color: black !important;
 }
