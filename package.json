@@ -1,0 +1,64 @@
+{
+  "name": "stephaniesimms.github.io",
+  "private": true,
+  "description": "A minimalist personal blogging site",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "deploy": "gatsby build && gh-pages -d public -b master"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.21",
+    "@fortawesome/free-brands-svg-icons": "^5.10.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "babel-plugin-styled-components": "^2.1.4",
+    "core-js": "^3.2.1",
+    "gatsby": "^5.13.6",
+    "gatsby-cli": "^5.11.0",
+    "gatsby-plugin-image": "^3.11.0",
+    "gatsby-plugin-manifest": "^5.11.0",
+    "gatsby-plugin-sharp": "^5.11.0",
+    "gatsby-plugin-styled-components": "^6.11.0",
+    "gatsby-plugin-typography": "^5.11.0",
+    "gatsby-remark-code-buttons": "^2.0.7",
+    "gatsby-remark-images": "^7.11.0",
+    "gatsby-remark-katex": "^7.11.0",
+    "gatsby-remark-prismjs": "^7.11.0",
+    "gatsby-remark-relative-images": "^2.0.2",
+    "gatsby-source-filesystem": "^5.11.0",
+    "gatsby-transformer-remark": "^6.11.0",
+    "gatsby-transformer-sharp": "^5.11.0",
+    "katex": "^0.13.3",
+    "prismjs": "^1.17.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.45.2",
+    "react-typography": "^0.16.19",
+    "source-map": "^0.8.0-beta.0",
+    "styled-components": "^6.0.4",
+    "typography": "^0.16.19"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "prettier": "^2.3.2"
+  },
+  "resolutions": {
+    "source-map": "^0.8.0-beta.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotterbach/jotterbach.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jotterbach/jotterbach.github.io/issues"
+  },
+  "homepage": "https://github.com/jotterbach/jotterbach.github.io#readme",
+  "main": "gatsby-browser.js",
+  "author": ""
+}
