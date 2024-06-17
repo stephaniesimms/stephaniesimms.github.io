@@ -2,8 +2,11 @@
 title: About
 type: Content
 ---
-I'm inspired by all things related to humans and technology. My journey into software began as an archaeologist using Geographic Information Systems to model ancient Maya landscapes in Mexico and Guatemala.
+I'm inspired by all things related to humans, our natural environment, and technology. As a generalist and social scientist, my curiosity drives me to continuously experiment in new spaces. I started out studying the past and am now focused on contributing to a sustainable future. 
 
-After completing a PhD, I transitioned into a Product Manager role at the University of California. Throughout my experiences studying humans and building tools to aid human activities, I cultivated a deep respect for technical systems that are intuitive and accessible. Eventually I decided to learn how to build things myself.
+My professional journey began as an archaeologist using Geographic Information Systems to model ancient Maya landscapes in Mexico and Guatemala. More specifically, I conducted research on food systems, plant foods, kitchens, and human behaviors surrounding food and environment. I often joke that I'm an expert in ancient Mexican/Maya food.
 
-When I’m not creating delightful user experiences you can find me climbing, slacklining, backpacking, attending metal and other concerts, reading scifi and other literature.
+Since completing a PhD, I've worked in the public sector and private industry solving sociotechnical problems in a variety of roles. In 2020 I moved from my native California to Berlin, Germany where I circled back to familiar GIS territory at a startup that uses satellite data to work on sustainability. 
+ 
+In my free time you can find me backpacking, slacklining, cooking and gardening, attending metal and other concerts, reading scifi and other literature.
+
