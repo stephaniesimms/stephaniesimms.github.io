@@ -54,12 +54,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jotterbach/jotterbach.github.io.git"
+    "url": "git+https://github.com/stephaniesimms/stephaniesimms.git"
   },
   "bugs": {
-    "url": "https://github.com/jotterbach/jotterbach.github.io/issues"
+    "url": "https://github.com/stephaniesimms/stephaniesimms/issues"
   },
-  "homepage": "https://github.com/jotterbach/jotterbach.github.io#readme",
+  "homepage": "https://github.com/stephaniesimms/stephaniesimms.github.io#readme",
   "main": "gatsby-browser.js",
   "author": ""
 }
