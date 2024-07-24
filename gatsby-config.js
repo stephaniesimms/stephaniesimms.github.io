@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     title: `Stephanie Simms, PhD`,
     description: `Personal profile page of Stephanie Simms`,
-    image: `/jo_icon.png`,
+    image: `/favicon-ss-192x192.png`,
     siteUrl: `https://stepaniesimms.com`
   },
   plugins: [
